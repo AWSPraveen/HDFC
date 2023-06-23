@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+this changes done by mark 23/6/23
+
 
     public static void main(String[] args) {
 
@@ -45,5 +46,5 @@ public class EvenOdd {
 							                System.out.println(num + " is even");
 						            else
 								                System.out.println(num + " is odd");
-							        }
-}
+:wq!
+:wq!	    }}
